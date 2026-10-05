@@ -1,0 +1,973 @@
+[
+ {
+  "slug": "savitri-ashirvaad",
+  "name": "Savitri Ashirvaad",
+  "category": "Premium Rice",
+  "riceType": "Sona Masuri",
+  "tagline": "Taste the difference",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ashirvaad-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-ashirvaad/",
+  "variants": [
+   {
+    "name": "Bronze",
+    "detail": "New sona steam rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ashirvaad-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-ashirvaad/bronze/"
+   },
+   {
+    "name": "Copper",
+    "detail": "6 months old sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ashirvaad-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-ashirvaad/copper/"
+   },
+   {
+    "name": "Gold",
+    "detail": "1 year old sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ashirvaad-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-ashirvaad/gold/"
+   },
+   {
+    "name": "Steel",
+    "detail": "White sona steam rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ashirvaad-4.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-ashirvaad/steel/"
+   },
+   {
+    "name": "Platinum",
+    "detail": "1 year old raw rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ashirvaad-5.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-ashirvaad/platinum-2/"
+   },
+   {
+    "name": "Silver",
+    "detail": "6 months old raw rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ashirvaad-6.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-ashirvaad/silver/"
+   },
+   {
+    "name": "Emerald",
+    "detail": "New half boiled sona masuri rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ashirvaad-7.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-ashirvaad/emerald/"
+   },
+   {
+    "name": "Sapphire",
+    "detail": "New full boiled sona masuri rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ashirvaad-9.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-ashirvaad/sapphire/"
+   },
+   {
+    "name": "Diamond",
+    "detail": "Half boiled 1 year old sona masuri rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ashirvaad-10.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-ashirvaad/diamond/"
+   }
+  ]
+ },
+ {
+  "slug": "savitri-anugrahaa",
+  "name": "Savitri Anugrahaa",
+  "category": "Premium Rice",
+  "riceType": "Sona Masuri",
+  "tagline": "Traditional rice of India",
+  "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-green.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/",
+  "variants": [
+   {
+    "name": "Green",
+    "detail": "New sona steam rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-green.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/green/"
+   },
+   {
+    "name": "Red",
+    "detail": "Sona steam general rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-red.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/orange/"
+   },
+   {
+    "name": "Brown",
+    "detail": "6 months old sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-brown.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/brown/"
+   },
+   {
+    "name": "Yellow",
+    "detail": "White sona steam rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-yellow.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/yellow/"
+   },
+   {
+    "name": "Black",
+    "detail": "1 year old sona masuri rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-black-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/black/"
+   },
+   {
+    "name": "Blue",
+    "detail": "New sona masuri rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-blue.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/blue/"
+   },
+   {
+    "name": "Grey",
+    "detail": "New half boiled sona masuri rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-grey.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/grey/"
+   },
+   {
+    "name": "Orange",
+    "detail": "Full boiled 1 year old sona masuri rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-orange.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/red/"
+   },
+   {
+    "name": "Purple",
+    "detail": "New full boiled sona masuri rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-purple.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/purple/"
+   },
+   {
+    "name": "White",
+    "detail": "Half boiled 1 year old sona masuri rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/07/savitri_anugraha-white.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/savitri-anugrahaa/white/"
+   }
+  ]
+ },
+ {
+  "slug": "abhivrudhi",
+  "name": "Abhivrudhi",
+  "category": "Premium Rice",
+  "riceType": "Sona Masuri",
+  "tagline": "Traditional rice of India",
+  "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-bronze.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/premium-rice/abhivrudhi/",
+  "variants": [
+   {
+    "name": "Bronze",
+    "detail": "Traditional rice of India",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-bronze.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Copper",
+    "detail": "Traditional rice of India",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-copper.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Diamond",
+    "detail": "Traditional rice of India",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-diamond.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Emerald",
+    "detail": "Traditional rice of India",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-emerald.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Gold",
+    "detail": "Traditional rice of India",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-gold.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Platinum",
+    "detail": "Traditional rice of India",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-platinum.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Ruby",
+    "detail": "Traditional rice of India",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-ruby.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Sapphire",
+    "detail": "Traditional rice of India",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-sapphire.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Silver",
+    "detail": "Traditional rice of India",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-silver.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Steel",
+    "detail": "Traditional rice of India",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/abhivrudhi-steel.jpg",
+    "pageUrl": ""
+   }
+  ]
+ },
+ {
+  "slug": "ashirvaad-premium",
+  "name": "Savitri Ashirvaad Premium",
+  "category": "Special Rice",
+  "riceType": "HMT",
+  "tagline": "Treasure of taste",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/premium-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-premium/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "New HMT rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/premium-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-premium/hmt-rice-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "New HMT rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/premium-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-premium/hmt-rice-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "New HMT rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/premium-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-premium/hmt-rice-3/"
+   }
+  ]
+ },
+ {
+  "slug": "ashirvaad-indian-special",
+  "name": "Savitri Ashirvaad Indian Special",
+  "category": "Special Rice",
+  "riceType": "Kolam",
+  "tagline": "Probably the best rice in the world",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/indian-special-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-indian-special/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "Kolam rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/indian-special-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-indian-special/kolam-rice-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "Kolam rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/indian-special-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-indian-special/kolam-rice-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "Kolam rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/indian-special-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-indian-special/kolam-rice-3/"
+   },
+   {
+    "name": "Pack 4",
+    "detail": "Kolam rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2021/08/Indian-Special.png",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-indian-special/kolam-rice-4/"
+   }
+  ]
+ },
+ {
+  "slug": "ashirvaad-sanjeevani",
+  "name": "Savitri Ashirvaad Sanjeevani",
+  "category": "Special Rice",
+  "riceType": "Jeera RNR/48",
+  "tagline": "Rice for life",
+  "image": "https://savitrigroup.in/wp-content/uploads/2021/08/Sanjeevani-1.png",
+  "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-sanjeevani/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "RNR/48 jeera rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2021/08/Sanjeevani-1.png",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-sanjeevani/jeera-rice-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "RNR/48 jeera rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2021/08/Sanjeevani-2.png",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-sanjeevani/jeera-rice-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "RNR/48 jeera rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2021/08/Sanjeevani-4.png",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-sanjeevani/jeera-rice-3/"
+   },
+   {
+    "name": "Pack 4",
+    "detail": "RNR/48 jeera rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2021/08/Sanjeevani-3.png",
+    "pageUrl": "https://savitrigroup.in/products/rice/special-rice/ashirvaad-sanjeevani/jeera-rice-4/"
+   }
+  ]
+ },
+ {
+  "slug": "sambramam",
+  "name": "Sambramam",
+  "category": "Special Rice",
+  "riceType": "Jeera",
+  "tagline": "Premium quality rice",
+  "image": "https://savitrigroup.in/wp-content/uploads/2025/04/krupa-sambramam-blue.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/special-rice/sambramam/",
+  "variants": [
+   {
+    "name": "Blue",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/krupa-sambramam-blue.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Green",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/krupa-sambramam-green.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Red",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/krupa-sambramam-red.jpg",
+    "pageUrl": ""
+   }
+  ]
+ },
+ {
+  "slug": "amruth-gold",
+  "name": "Amruth Gold",
+  "category": "Consumer Rice Range",
+  "riceType": "Sona Masuri",
+  "tagline": "Enrich your life",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/amruth-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/amruth-gold/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "2nd quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/amruth-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/amruth-gold/enrich-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "2nd quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/amruth-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/amruth-gold/enrich-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "2nd quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/amruth-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/amruth-gold/enrich-3/"
+   },
+   {
+    "name": "Pack 4",
+    "detail": "2nd quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2021/08/Amruth-Gold.png",
+    "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/amruth-gold/enrich-4/"
+   }
+  ]
+ },
+ {
+  "slug": "avani",
+  "name": "Avani",
+  "category": "Consumer Rice Range",
+  "riceType": "Jeera",
+  "tagline": "Premium quality rice",
+  "image": "https://savitrigroup.in/wp-content/uploads/2025/04/avani-blue.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/avani/",
+  "variants": [
+   {
+    "name": "Blue",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/avani-blue.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Green",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/avani-green.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Red",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/avani-red.jpg",
+    "pageUrl": ""
+   }
+  ]
+ },
+ {
+  "slug": "akshata",
+  "name": "Akshata",
+  "category": "Consumer Rice Range",
+  "riceType": "Sona Masuri",
+  "tagline": "Bless of life",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/akshata-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/akshata/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "3rd quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/akshata-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/akshata/bless-of-life-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "3rd quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/akshata-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/akshata/bless-of-life-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "3rd quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/akshata-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/akshata/bless-of-life-3/"
+   },
+   {
+    "name": "Pack 4",
+    "detail": "3rd quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2021/08/Akshata.png",
+    "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/akshata/bless-of-life-4/"
+   }
+  ]
+ },
+ {
+  "slug": "akshaya",
+  "name": "Akshaya",
+  "category": "Consumer Rice Range",
+  "riceType": "Jeera",
+  "tagline": "Embrace pure living",
+  "image": "https://savitrigroup.in/wp-content/uploads/2025/04/akshaya-silk-blue.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/consumer-rice-range/akshaya/",
+  "variants": [
+   {
+    "name": "Silk Blue",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/akshaya-silk-blue.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Silk Green",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/akshaya-silk-green.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Silk Red",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/akshaya-silk-red.jpg",
+    "pageUrl": ""
+   }
+  ]
+ },
+ {
+  "slug": "family",
+  "name": "Family",
+  "category": "Economical Rice Range",
+  "riceType": "Sona Masuri",
+  "tagline": "Everyone's choice",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/family-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/family/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "4th quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/family-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/family/everyone-choice-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "4th quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/11/family-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/family/everyone-choice-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "4th quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/11/family-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/family/everyone-choice-3/"
+   },
+   {
+    "name": "Pack 4",
+    "detail": "4th quality sona rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/11/family-4.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/family/everyone-choice-4/"
+   }
+  ]
+ },
+ {
+  "slug": "kutumbh",
+  "name": "Kutumbh",
+  "category": "Economical Rice Range",
+  "riceType": "Sona Masuri",
+  "tagline": "Nourish your gatherings",
+  "image": "https://savitrigroup.in/wp-content/uploads/2025/04/kutumbh-blue.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/kutumbh/",
+  "variants": [
+   {
+    "name": "Blue",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/kutumbh-blue.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Green",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/kutumbh-green.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Red",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/kutumbh-red.jpg",
+    "pageUrl": ""
+   }
+  ]
+ },
+ {
+  "slug": "ayush",
+  "name": "Ayush",
+  "category": "Economical Rice Range",
+  "riceType": "IR 64",
+  "tagline": "Power to life",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/auysh-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ayush/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "Coarse rice (IR 64)",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/auysh-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ayush/power-to-life-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "Coarse rice (IR 64)",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/auysh-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ayush/power-to-life-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "Coarse rice (IR 64)",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/auysh-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ayush/power-to-life-3/"
+   }
+  ]
+ },
+ {
+  "slug": "krupa",
+  "name": "Krupa",
+  "category": "Economical Rice Range",
+  "riceType": "Sona Masuri",
+  "tagline": "Premium quality rice",
+  "image": "https://savitrigroup.in/wp-content/uploads/2025/04/krupa-blue.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/krupa/",
+  "variants": [
+   {
+    "name": "Blue",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/krupa-blue.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Green",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/krupa-green.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Red",
+    "detail": "Premium quality rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/krupa-red.jpg",
+    "pageUrl": ""
+   }
+  ]
+ },
+ {
+  "slug": "ajantha",
+  "name": "Ajantha",
+  "category": "Economical Rice Range",
+  "riceType": "Sona Masuri",
+  "tagline": "Just the best",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ajanta-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ajantha/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "Sona S/R rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ajanta-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ajantha/just-the-best-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "Sona S/R rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ajanta-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ajantha/just-the-best-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "Sona S/R rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ajanta-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ajantha/just-the-best-3/"
+   }
+  ]
+ },
+ {
+  "slug": "elephanta",
+  "name": "Elephanta",
+  "category": "Economical Rice Range",
+  "riceType": "Sona Masuri",
+  "tagline": "Eat strong, be strong",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/elephanta-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/elephanta/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "Old sona S/R rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/elephanta-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/elephanta/eat-strong-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "Old sona S/R rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/elephanta-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/elephanta/eat-strong-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "Old sona S/R rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/elephanta-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/elephanta/eat-strong-3/"
+   }
+  ]
+ },
+ {
+  "slug": "ellora",
+  "name": "Ellora",
+  "category": "Economical Rice Range",
+  "riceType": "Sona Masuri",
+  "tagline": "Strong and beautiful",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ellora-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ellora/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "Old sona S/R rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ellora-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ellora/strong-and-beautiful-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "Old sona S/R rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ellora-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ellora/strong-and-beautiful-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "Old sona S/R rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/ellora-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/economical-rice-range/ellora/strong-and-beautiful-3/"
+   }
+  ]
+ },
+ {
+  "slug": "ship",
+  "name": "Ship",
+  "category": "Broken Rice Range",
+  "riceType": "Broken rice",
+  "tagline": "Imperial choice rice",
+  "image": "https://savitrigroup.in/wp-content/uploads/2025/04/ship-green.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/ship/",
+  "variants": [
+   {
+    "name": "Green",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/ship-green.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Purple",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/ship-purple.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Red",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/ship-red.jpg",
+    "pageUrl": ""
+   }
+  ]
+ },
+ {
+  "slug": "train",
+  "name": "Train",
+  "category": "Broken Rice Range",
+  "riceType": "Broken rice",
+  "tagline": "Take good care of you",
+  "image": "https://savitrigroup.in/wp-content/uploads/2025/04/train-blue.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/train/",
+  "variants": [
+   {
+    "name": "Blue",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/train-blue.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Green",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/train-green.jpg",
+    "pageUrl": ""
+   },
+   {
+    "name": "Red",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2025/04/train-red.jpg",
+    "pageUrl": ""
+   }
+  ]
+ },
+ {
+  "slug": "lorry",
+  "name": "Lorry",
+  "category": "Broken Rice Range",
+  "riceType": "Broken rice",
+  "tagline": "Takes good care of you",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/lorry-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/lorry/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/lorry-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/lorry/takes-good-care-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/lorry-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/lorry/takes-good-care-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/lorry-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/lorry/takes-good-care-3/"
+   },
+   {
+    "name": "Pack 4",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/lorry-4.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/lorry/takes-good-care-4/"
+   },
+   {
+    "name": "Pack 5",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/lorry-5.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/lorry/takes-good-care-5/"
+   },
+   {
+    "name": "Pack 6",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/lorry-6.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/lorry/takes-good-care-6/"
+   }
+  ]
+ },
+ {
+  "slug": "tractor",
+  "name": "Tractor",
+  "category": "Broken Rice Range",
+  "riceType": "Sona broken",
+  "tagline": "The best you can get",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/tractor-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/tractor/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "HMT steam broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/tractor-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/tractor/hmt-steam-broken-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "HMT steam broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/tractor-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/tractor/hmt-steam-broken-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "HMT steam broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/tractor-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/tractor/hmt-steam-broken-3/"
+   },
+   {
+    "name": "Pack 4",
+    "detail": "HMT steam broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/tractor-4.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/tractor/hmt-steam-broken-4/"
+   },
+   {
+    "name": "Pack 5",
+    "detail": "HMT steam broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/tractor-5.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/tractor/hmt-steam-broken-5/"
+   },
+   {
+    "name": "Pack 6",
+    "detail": "HMT steam broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/tractor-6.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/tractor/hmt-steam-broken-6/"
+   }
+  ]
+ },
+ {
+  "slug": "auto",
+  "name": "Auto",
+  "category": "Broken Rice Range",
+  "riceType": "Sona broken",
+  "tagline": "You will like it",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/auto-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/auto/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "Old sona broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/auto-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/auto/old-sona-broken-rice-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "Old sona broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/auto-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/auto/old-sona-broken-rice-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "Old sona broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/auto-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/auto/old-sona-broken-rice-3/"
+   }
+  ]
+ },
+ {
+  "slug": "scooter",
+  "name": "Scooter",
+  "category": "Broken Rice Range",
+  "riceType": "Broken rice",
+  "tagline": "Don't cook it, scooter it",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/scooter-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/scooter/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/scooter-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/scooter/broken-rice-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/scooter-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/scooter/broken-rice-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/scooter-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/scooter/broken-rice-3/"
+   }
+  ]
+ },
+ {
+  "slug": "kangaroo",
+  "name": "Kangaroo",
+  "category": "Broken Rice Range",
+  "riceType": "Broken rice",
+  "tagline": "Feel good with Kangaroo",
+  "image": "https://savitrigroup.in/wp-content/uploads/2018/02/kangaroo-1.jpg",
+  "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/kangaroo/",
+  "variants": [
+   {
+    "name": "Pack 1",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/kangaroo-1.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/kangaroo/feel-good-1/"
+   },
+   {
+    "name": "Pack 2",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/kangaroo-2.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/kangaroo/feel-good-2/"
+   },
+   {
+    "name": "Pack 3",
+    "detail": "Broken rice",
+    "image": "https://savitrigroup.in/wp-content/uploads/2018/02/kangaroo-3.jpg",
+    "pageUrl": "https://savitrigroup.in/products/rice/broken-rice-range/kangaroo/feel-good-3/"
+   }
+  ]
+ },
+ {
+  "slug": "ashirvaad-idli-rawa",
+  "name": "Savitri Ashirvaad Idly Rawa",
+  "category": "Rice By-Products",
+  "riceType": "By-product",
+  "tagline": "Rice by-product",
+  "image": "",
+  "pageUrl": "https://savitrigroup.in/products/rice-by-products/ashirvaad-idli-rawa/",
+  "variants": []
+ },
+ {
+  "slug": "ashirvaad-rice-flour",
+  "name": "Savitri Ashirvaad Rice Flour",
+  "category": "Rice By-Products",
+  "riceType": "By-product",
+  "tagline": "Rice by-product",
+  "image": "",
+  "pageUrl": "https://savitrigroup.in/products/rice-by-products/ashirvaad-rice-flour/",
+  "variants": []
+ },
+ {
+  "slug": "ashirvaad-poha",
+  "name": "Savitri Ashirvaad Poha",
+  "category": "Rice By-Products",
+  "riceType": "By-product",
+  "tagline": "Rice by-product",
+  "image": "",
+  "pageUrl": "https://savitrigroup.in/products/rice-by-products/ashirvaad-poha/",
+  "variants": []
+ },
+ {
+  "slug": "ashirvaad-rice-rawa",
+  "name": "Savitri Ashirvaad Rice Rawa",
+  "category": "Rice By-Products",
+  "riceType": "By-product",
+  "tagline": "Rice by-product",
+  "image": "",
+  "pageUrl": "https://savitrigroup.in/products/rice-by-products/ashirvaad-rice-rawa/",
+  "variants": []
+ },
+ {
+  "slug": "ashirvaad-murmure",
+  "name": "Savitri Ashirvaad Murmure",
+  "category": "Rice By-Products",
+  "riceType": "By-product",
+  "tagline": "Rice by-product",
+  "image": "",
+  "pageUrl": "https://savitrigroup.in/products/rice-by-products/ashirvaad-murmure/",
+  "variants": []
+ },
+ {
+  "slug": "ashirvaad-puttu-podi",
+  "name": "Savitri Ashirvaad Puttu Podi",
+  "category": "Rice By-Products",
+  "riceType": "By-product",
+  "tagline": "Rice by-product",
+  "image": "",
+  "pageUrl": "https://savitrigroup.in/products/rice-by-products/ashirvaad-puttu-podi/",
+  "variants": []
+ }
+]
